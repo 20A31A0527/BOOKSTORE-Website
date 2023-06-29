@@ -8,8 +8,10 @@ The Book Store E-commerce Website is an online platform that enables users to br
 https://zealous-desert-0b8b46000.3.azurestaticapps.net
 
 #### Project Demo Link:
+https://drive.google.com/file/d/1bSkFLiu8m0OI5X6QZkxNVXk23A2PHOjt/view?usp=drive_link
 
 #### GitHub Repository Link:
+https://github.com/20A31A0527/BOOKSTORE-Website
 
 ## Features:
 The Book Store E-commerce Website offers the following key features:
